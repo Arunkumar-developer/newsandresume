@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Resume</title>
+<meta></meta>
+<link><link>
+<script></script>
+</head>
+<body>
+
+<pre>
+Name : Arun Kumar                                              email : arunanil465@gmail.com
+Address : Medchal                                              Phn No : 9603074880    
+
+<hr>
+Skills : HTML
+         CSS
+         JS
+
+Hobbies : Watching Movies
+          Listining Songs
+</pre>
+
+</body>
+</html>

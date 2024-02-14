@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>My Web Site</title>
+<meta></meta>
+<link><link>
+<script></script>
+</head>
+<body>
+
+<h1>Hello</h1>
+
+</body>
+</html>

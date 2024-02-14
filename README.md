@@ -1,1 +1,1 @@
-# newsandresume
+# newspaperandresume
